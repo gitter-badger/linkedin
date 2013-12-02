@@ -49,9 +49,6 @@ var followMessageLink = function(link, cb){
 }
 
 
-
-
-
 iRun = 0;
 var iMessage = 0;
 var z = undefined;
