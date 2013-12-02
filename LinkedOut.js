@@ -1,4 +1,3 @@
-
 var INCR = 16; // Number of messages per page
 var SENT_URL = '//www.linkedin.com/inbox/invitations/sent?startRow=';
 var loMessageLinks = []; // Main array for all contacts
